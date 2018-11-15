@@ -1,2 +1,4 @@
 *gps_20161201*
 *.ipynb_checkpoints/*
+*.png
+!area.png
