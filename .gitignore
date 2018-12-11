@@ -1,4 +1,6 @@
-*gps_20161201*
-*.ipynb_checkpoints/*
+**/gps_20161*
+**/.ipynb_checkpoints/*
 *.png
 !area.png
+*.pkl
+*.tar.gz
